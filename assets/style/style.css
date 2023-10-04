@@ -1,29 +1,27 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,400;0,500;1,200&family=Russo+One&display=swap');
+
 * {
     background-color: black;
     color: white;
     font-family: 'Poppins', sans-serif;
     margin: 0;
     padding: 0;
-    
 }
 
 
-.img-new img{
+.img-new img {
     margin-top: 1rem;
     width: 20rem;
 }
 
-.all-in{
+.all-in {
     border: solid 2px rgb(255, 60, 0);
-    
     background-color: transparent;
     border-radius: 10px;
-    margin-left: 400px ;
+    margin-left: 400px;
     margin-right: 400px;
     margin-top: 2%;
     padding: 1rem;
-    
 }
 
 
@@ -31,50 +29,45 @@
 .main {
 
     background-color: transparent;
-    
-
 }
-h1{
+
+h1 {
     font-size: xx-large;
     text-align: center;
     margin-top: 3rem;
     background-color: rgba(150, 46, 9, 0.466);
     border-radius: 80px;
-
 }
 
-.txt{
-    
- align-items: center;
- justify-content: center;
- text-align: center;
- flex-direction: row;
- margin-left: 11rem;
- margin-top: 1.5rem;
- margin-right: 1rem;
- 
+.txt {
+
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: row;
+    margin-left: 11rem;
+    margin-top: 1.5rem;
+    margin-right: 1rem;
 }
 
 
-.btn{
+.btn {
     background-color: rgb(168, 62, 20);
     border-radius: 20px;
     border: none;
     color: black;
-    padding:0.55rem;
+    padding: 0.55rem;
     font-weight: 400;
     cursor: pointer;
-   
 }
+
 
 .new-list {
     padding: 1rem;
-    
 }
 
 
-.txt-list{
+.txt-list {
     color: aliceblue;
     background-color: aqua;
-    
 }
